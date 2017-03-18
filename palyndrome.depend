@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1457092013 source:d:\bureau\prog\c-c++\palyndrome\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
+1457200611 source:d:\mes documents\prog\c-c++\palyndrome\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
+1457392414 source:d:\mes documents\prog\c-c++\palindrome\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
